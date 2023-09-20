@@ -1,0 +1,42 @@
+h2,p{
+    color: red;
+}
+
+p{
+    font-family: cursive;
+}
+
+.class {
+    background-color: aqua;
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    float: right;
+    
+}
+
+th, td {
+    border: 1px solid rgb(11, 139, 60);
+    padding: 8px 12px;
+    text-align: center;
+}
+
+.visite {
+    background-color: yellow;
+}
+
+.dire {
+    background-color: blue;
+}
+
+.traspo { 
+    background-color: red;
+}
+
+.tabla{
+    float: right;
+}
